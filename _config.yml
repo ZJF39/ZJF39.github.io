@@ -5,11 +5,11 @@ avatar: https://ZJF39.github.io/images/konata.png
 favicon: https://ZJF39.github.io/images/favicon.ico
 
 navigation:
-  - name: 首页
+  - name: 文章列表
     url: /
-  - name: 关于
+  - name: 关于我
     url: /about
-  - name: 项目展示
+  - name: 标签
     url: /tags
 
 paginate: 8
