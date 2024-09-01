@@ -1,7 +1,7 @@
 name: "DIO's blog"
 description: "嘉夫的个人博客"
 
-avatar: https://ZJF39.github.io/images/avatar.png
+avatar: https://ZJF39.github.io/images/konata.jpg
 favicon: https://ZJF39.github.io/images/favicon.ico
 
 navigation:
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 739376639@qq.com
   facebook:
-  github: pianfan
+  github: ZJF39
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
