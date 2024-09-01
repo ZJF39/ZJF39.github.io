@@ -1,13 +1,13 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "DIO's blog"
+description: "嘉夫的个人博客"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://ZJF39.github.io/images/avatar.png
+favicon: https://ZJF39.github.io/images/favicon.ico
 
 navigation:
-  - name: 首页
-    url: /
   - name: 关于
+    url: /
+  - name: 项目
     url: /about
   - name: 分类
     url: /tags
